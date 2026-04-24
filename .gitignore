@@ -1,0 +1,4 @@
+node_modules/
+backend/hours.db
+.DS_Store
+dist/
